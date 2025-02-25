@@ -1,3 +1,29 @@
+# Kriegware
+
+Este proyecto está en desarrollo.
+
+## Descripción
+
+Kriegware es una aplicación web en desarrollo.
+
+## Instalación
+
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/kriegware.git
+    ```
+2. Instala las dependencias:
+    ```bash
+    npm install
+    ```
+
+## Uso
+
+Para iniciar la aplicación:
+```bash
+npm start
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
